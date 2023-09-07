@@ -24,3 +24,4 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=calvin-alvrz&show_icons=true&theme=transparent" /> 
   <img width="42.28%" src="https://github-readme-streak-stats.herokuapp.com/?user=calvin-alvrz&theme=transparent" />
 </p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/calvin_alvrz?theme=wtf&font=DM%20Mono&ext=heatmap)
