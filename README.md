@@ -50,7 +50,7 @@
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.webp" width="20"> &nbsp;My LeetCode Stats!
   </h2>
   <p align="center">
-    <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
+    <a href="https://leetcode.com/calvin_alvrz/" target="_blank">
       <img title="Calvin Alvarez's LeetCode Stats" alt="Calvin Alvarez's LeetCode Stats" src="https://leetcard.jacoblin.cool/calvin_alvrz?theme=dark&font=DM%20Mono&ext=heatmap" width="300" />
     </a>
   </p>
