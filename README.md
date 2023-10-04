@@ -2,10 +2,7 @@
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20🎯%20Welcome%20to%20my%20GitHub%20profile%20🎯%20&fontAlign=50&fontSize=30&textBg=true" />
   </div>
-  <h1 align="center">
-    <img src="https://i.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.webp" width="50"> I'm Calvin Alvarez | Student at AUT
-    <img src="https://i.giphy.com/media/dxPLabTzMtv70CSlX0/giphy.webp" width="50">
-  </h1>
+  <h1 align="center">I'm Calvin Alvarez | Student at AUT</h1>
   <h3 align="center">
     <br>"𝐓𝐡𝐞 𝐨𝐧𝐥𝐲 𝐭𝐫𝐮𝐞 𝐰𝐢𝐬𝐝𝐨𝐦 𝐢𝐬 𝐢𝐧 𝐤𝐧𝐨𝐰𝐢𝐧𝐠 𝐲𝐨𝐮 𝐤𝐧𝐨𝐰 𝐧𝐨𝐭𝐡𝐢𝐧𝐠."<br><br>- 𝘚𝘰𝘤𝘳𝘢𝘵𝘦𝘴
   </h3>
